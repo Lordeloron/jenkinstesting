@@ -1,5 +1,5 @@
-String lastName = "Иванов";
-String firstName = "Иван";
+String lastName = "Sam";
+String firstName = "Backm";
 LocalTime time = LocalTime.now();
 
 System.out.println(lastName + " " + firstName + " " + time);
